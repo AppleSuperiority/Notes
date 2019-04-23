@@ -49,14 +49,24 @@ class Witch extends Monster
  }
 
  //this will not compile
+<<<<<<< HEAD
  /*
+=======
+ 
+>>>>>>> upstream/master
  public void overRide( )
  {
   System.out.println("overRide in Witch\n");
  }
+<<<<<<< HEAD
  */
  
 
+=======
+
+ 
+
+>>>>>>> upstream/master
  public String toString()
  {
   return "Witches are the best!!!!!\n";

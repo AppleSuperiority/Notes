@@ -70,8 +70,13 @@ class Ghost extends Monster
    //java:57: overRide() in Ghost cannot override overRide() in Monster;
    public void overRide( )
    {
+<<<<<<< HEAD
       System.out.println("overRide in Ghost\n");
         ///attempting to use incompatible return type
+=======
+      System.out.println("overRide in Ghost");
+      //return 0;  ///attempting to use incompatible return type
+>>>>>>> upstream/master
    }
 
 
